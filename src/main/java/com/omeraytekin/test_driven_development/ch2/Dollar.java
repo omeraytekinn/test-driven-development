@@ -1,4 +1,4 @@
-package com.omeraytekin.test_driven_development;
+package com.omeraytekin.test_driven_development.ch2;
 
 public class Dollar {
     public int amount;
